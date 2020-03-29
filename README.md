@@ -8,9 +8,13 @@ usage: code_injector.py [-h] [-js JSCODE_FILE] [-a ANCHORTAG]
 
 optional arguments:
   -h, --help            show this help message and exit
+  
   -js JSCODE_FILE, --jscode_file JSCODE_FILE
+  
                         The code to inject
+                        
   -a ANCHORTAG, --anchorTag ANCHORTAG
+  
                         The tag to initialise injection
 
 Can take direct script or some file that has some script inside
