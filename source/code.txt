@@ -1,0 +1,1 @@
+<script>alert("OnLoad image"+document.getElementById("vamp1").src="hackanm.gif")</script>

