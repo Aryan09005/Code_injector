@@ -46,7 +46,7 @@ def process_packet(packet):
 		if load != scapy_packet[scapy.Raw].load:
 			new_packet = set_load(scapy_packet, load)
 			packet.set_payload(str(new_packet))
-			print('[+] Injected')
+			print('[[[[+]]]] Injected')
 
 
 	packet.accept()
